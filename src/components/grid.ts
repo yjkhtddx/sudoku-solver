@@ -1,5 +1,5 @@
 import { LitElement, html, customElement, property }
-    from '@polymer/lit-element';
+    from 'lit-element';
 
 import { CellVal, GridVals, cellIndex, UnsolvedGrid } from '../sudoku';
 
